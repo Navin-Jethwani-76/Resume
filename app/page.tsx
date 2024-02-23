@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center px-6 md:px-48 lg:px-72">
+    <main className="flex h-dvh md:min-h-screen md:h-full flex-col items-center justify-center px-2 md:px-48 lg:px-72">
       <div
         style={{
           position: "relative",
